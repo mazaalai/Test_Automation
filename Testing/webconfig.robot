@@ -1,3 +1,3 @@
 *** Variables ***
 ${BROWSER}=     Google Chrome   
-${BASE_URL}=    https://ssp-books.herokuapp.com/
+${BASE_URL}=    https://hummingbee.herokuapp.com/gebruiker/login
